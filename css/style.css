@@ -221,7 +221,7 @@ button {
 }
 
 .theme_bg {
-     background: #38c8a8;
+     background: blue;
 }
 
 .margin_top_30 {
@@ -306,7 +306,7 @@ button {
 }
 
 .sign_btn a:hover {
-     color: #0aec98;
+     color: #87CEEB;
 }
 
 
@@ -363,7 +363,7 @@ button {
 
 .text-bg span {
      font-family: 'Baloo Chettan', cursive;
-     color: #2bcc91;
+     color: #87CEEB;
      font-size: 40px;
      line-height: 77px;
      font-weight: bold;
@@ -385,7 +385,7 @@ button {
 }
 
 .text-bg a:hover {
-     background-color: #2bcc91;
+     background-color: #87CEEB;
      color: #fff;
      transition: ease-in all 0.5s;
      border-radius: 26px;
@@ -393,7 +393,7 @@ button {
 
 .text-img {
      height: 750px;
-     background: linear-gradient(to bottom, #0aec98 0%, #2bcc91 100%);
+     background: linear-gradient(to bottom, #87CEEB 0%, #87CEEB 100%);
      border-radius: 322px 0px 0px 380px;
      padding: 132px 20px 0px 50px;
 }
@@ -420,7 +420,7 @@ button {
     color: #fff;
 padding: 7px 12px;
 font-size: 21px;
-    border: #2bcc91 solid 7px;}
+    border: #87CEEB solid 7px;}
 
 
 
@@ -530,7 +530,7 @@ font-size: 21px;
 }
 
 .our_products .product_box h3:hover {
-    background: #48ca95;
+    background: #87CEEB;
     transition: ease-in all 0.5s;
 }
 
@@ -543,14 +543,14 @@ font-size: 21px;
      display: block;
      margin-top: 50px;
      background-color: transparent;
-     border: #48ca95 solid 2px;
-     color: #48ca95 !important;
+     border: #87CEEB solid 2px;
+     color: #87CEEB !important;
      max-width: 232px;
      padding: 15px 0;
 }
 
 .our_products .read_more:hover {
-     background: #48ca95;
+     background: #87CEEB;
      color: #000 !important;
 }
 
@@ -662,7 +662,7 @@ font-size: 21px;
      width: 20px;
      height: 20px;
      border-radius: 20px;
-     background: #48ca95;
+     background: #87CEEB;
 }
 
 .customer_Carousel .carousel-indicators li.active {
@@ -738,7 +738,7 @@ font-size: 21px;
    .contact .php-email-form .sent-message {
      display: none;
      color: #fff;
-     background: #059652;
+     background: #87CEEB;
      text-align: center;
      padding: 15px;
      font-weight: 600;
@@ -758,7 +758,7 @@ font-size: 21px;
      width: 24px;
      height: 24px;
      margin: 0 10px -6px 0;
-     border: 3px solid #059652;
+     border: 3px solid #87CEEB;
      border-top-color: #fff;
      animation: animate-loading 1s linear infinite;
    }
@@ -822,7 +822,7 @@ font-size: 21px;
 
 .best_box {
      text-align: center;
-     background-color: #2bcc91;
+     background-color: #87CEEB;
      border-radius: 20px;
      padding: 30px 20px;
      margin-bottom: 30px;
@@ -854,7 +854,7 @@ font-size: 21px;
 }
 
 .best .read_more:hover {
-     background-color: #2bcc91;
+     background-color: #87CEEB;
 }
 
 
@@ -930,7 +930,7 @@ font-size: 21px;
 }
 
 .request .main_form .send_btn:hover {
-     background-color: #2bcc91;
+     background-color: #87CEEB;
      transition: ease-in all 0.5s;
      color: #fff;
      border-radius: 26px;
@@ -975,7 +975,7 @@ font-size: 21px;
 /** two_box section section **/
 
 .two_box {
-     background: #2bcc91;
+     background: #87CEEB;
      margin-top: 90px;
      padding: 0 40px;
 }
@@ -1044,7 +1044,7 @@ font-size: 21px;
 
 .testimonial_Carousel .test_box h3 {
      font-size: 30px;
-     color: #2bcc91;
+     color: #87CEEB;
      line-height: 32px;
      display: inline-block;
      padding-bottom: 40px;
@@ -1064,7 +1064,7 @@ font-size: 21px;
 .testimonial_Carousel .carousel-indicators li {
      width: 15px;
      height: 13px;
-     background: #41c365;
+     background: #87CEEB;
 }
 
 .testimonial_Carousel .carousel-indicators li.active {
@@ -1197,7 +1197,7 @@ font-size: 21px;
 /** footer **/
 
 .multi {
-     color: #2bcc91;
+     color: #87CEEB;
      font-weight: bold;
      font-size: 40px;
 }
@@ -1245,7 +1245,7 @@ font-size: 21px;
 }
 
 .copyright a:hover {
-     color: #2bcc91;
+     color: #87CEEB;
 }
 
 
